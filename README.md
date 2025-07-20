@@ -1,1 +1,3 @@
 # SCT_WD_4
+
+This project is a basic To-Do Web Application developed as part of Task 04. The main goal of this application is to help users manage their daily tasks more effectively. It allows users to add tasks, organize them in a list, and keep track of their progress. Users can mark tasks as completed, edit existing tasks, and set specific dates and times for reminders. The app is designed to be simple and user-friendly, using basic web technologies like HTML, CSS, and JavaScript. It can store task data locally using the browser's localStorage, or it can be extended to use a backend for persistent storage. Overall, this project aims to improve productivity by helping users stay organized and on schedule.
